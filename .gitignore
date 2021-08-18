@@ -1,0 +1,3 @@
+# Volume mounts
+volumes/grafana/data/
+volumes/redpanda1/
